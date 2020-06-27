@@ -6,7 +6,7 @@ https://animejs.com/ <br/>
 https://glidejs.com/ <br/>
 https://isotope.metafizzy.co/ <br/>
 https://scrollrevealjs.org/ <br/>
-https://scrollrevealjs.org/ <br/>
+https://github.com/cferdinandi/smooth-scroll <br/>
 
 三种布局情况，宽1100像素及以上，宽990像素，宽650像素<br/>
 全页面截图出现多个返回顶部按钮，是截图所致，按钮只有一个，默认是隐藏的，到达设置的视窗高度会显示<br/>
