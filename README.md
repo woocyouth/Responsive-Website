@@ -8,6 +8,6 @@ https://isotope.metafizzy.co/ <br/>
 https://scrollrevealjs.org/ <br/>
 https://scrollrevealjs.org/ <br/>
 
-<h3>部分效果图</h3><br/>
-![res](https://github.com/woocyouth/public_img/blob/master/res_screen.jpg) <br/>
-![res](https://github.com/woocyouth/public_img/blob/master/res_1.png)
+
+![image](https://github.com/woocyouth/public_img/blob/master/res_screen.jpg)<br/>
+![image](https://github.com/woocyouth/public_img/blob/master/res_1.png)
