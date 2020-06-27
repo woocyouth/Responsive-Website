@@ -9,4 +9,4 @@ https://scrollrevealjs.org/ <br/>
 https://scrollrevealjs.org/ <br/>
 
 <h3>部分效果图</h3><br/>
-![image](https://github.com/woocyouth/public_img/blob/master/res_screen.jpg)
+![@images](https://github.com/woocyouth/public_img/blob/master/res_screen.jpg)
